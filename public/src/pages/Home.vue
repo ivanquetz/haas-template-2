@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1 class="box center">
-      i hate u bitch {{ name }}
+      i hate {{ name }}
     </h1>
     <h2>
      hello worldss {{ name }}
