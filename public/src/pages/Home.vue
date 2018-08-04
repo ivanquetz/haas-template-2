@@ -4,7 +4,7 @@
       i hate {{ name }}
     </h1>
     <h2>
-     hello worldss {{ name }}
+     hello world {{ name }}
   </h2>
   </div>
 </template>
