@@ -1,1 +1,2 @@
-# haas-template-2
+vuejs & express-hot-middleware
+------------------------------
