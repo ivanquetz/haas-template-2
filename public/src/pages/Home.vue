@@ -1,12 +1,10 @@
 <template>
-  <div class="container">
-    <h1 class="box center">
-      i hate {{ name }}
-    </h1>
-    <h2>
-     hello world {{ name }}
-  </h2>
-  </div>
+<div>
+  <iframe src="https://codesandbox.io/embed/5v94rvjvrx?hidenavigation=1" 
+          style="width:100%; height:800px; border:0; border-radius: 0px; overflow:hidden;" 
+          sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin">
+  </iframe>
+</div>
 </template>
 
 <script>
@@ -21,9 +19,5 @@ export default {
 </script>
 
 <style scoped lang="css">
-  .container {
-    border: 2px solid lightblue;
-    display: grid;
-  }
   
 </style>

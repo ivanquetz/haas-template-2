@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="container">    
+<!--     <nav class="container">    
       <router-link to="/">
         <h3>
          Home
@@ -16,23 +16,15 @@
         Contact
         </h3>
       </router-link>
-    </nav>
+    </nav> -->
     
     <router-view></router-view>
   </div>
 </template>
 
-<style scoped>
+<style>
   body {
-    margin: 0rem;
-  }
-  
-  .container {
-    display: flex;
-    
-    a {
-      flex: 1;
-      padding: 10px;
-    }
+    margin: 0px;
+    padding: 0px;
   }
 </style>
